@@ -1,0 +1,21 @@
+ *** ContactManager Project ***
+
+ dto.ContactDTO (name, surname, phone(unique))
+
+ Project konsoldan boshqarilishi kerak
+ Yangi contactDTO qo'shgandan so'ng consolda xabar ko'rsating. Phone raqam takrorlanmas bo'lishi kerak
+ Contactni o'chirgandan so'ng konsolga xabar ko'rsating
+ Agar contactDTO topilmasa "Mazgi contactDTO yo'qku" xabar chiqarilsin
+
+ ** Menu **
+ 1. Add contactDTO
+    Enter name:
+    Enter surname:
+    Enter phone:
+ 2. dto.ContactDTO list
+    name, surname, phone
+ 3. Delete contactDTO
+    Enter phone:
+ 4. Search contactDTO by(name, surname, phone)
+    Enter query:
+ 0. Exit
